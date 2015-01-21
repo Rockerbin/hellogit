@@ -1,5 +1,5 @@
 hellogit
 ========
 
-my daily work
-this is my homework.
+<p>My daily work.</p>  
+<p>This is my homework.</p>
